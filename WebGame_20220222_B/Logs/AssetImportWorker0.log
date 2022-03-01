@@ -1,0 +1,430 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.25f1 (9b9180224418) revision 10195328'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19043) 64bit Professional' Language: 'zh' Physical Memory: 16217 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/user/Desktop/lepo/新增捷徑.lnk/WebGame_20220222_B
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+1699
+Successfully changed project path to: C:/Users/user/Desktop/lepo/新增捷徑.lnk/WebGame_20220222_B
+C:/Users/user/Desktop/lepo/新增捷徑.lnk/WebGame_20220222_B
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 38.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.25f1 (9b9180224418)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/user/Desktop/lepo/新增捷徑.lnk/WebGame_20220222_B/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 SUPER (ID=0x2187)
+    Vendor:   
+    VRAM:     3955 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56536
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004048 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 36.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.516 seconds
+Domain Reload Profiling:
+	ReloadAssembly (516ms)
+		BeginReloadAssembly (61ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (383ms)
+			LoadAssemblies (58ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (129ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (138ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (37ms)
+				BeforeProcessingInitializeOnLoad (7ms)
+				ProcessInitializeOnLoadAttributes (66ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006637 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 35.74 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.964 seconds
+Domain Reload Profiling:
+	ReloadAssembly (964ms)
+		BeginReloadAssembly (131ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (14ms)
+		EndReloadAssembly (771ms)
+			LoadAssemblies (96ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (244ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (298ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (36ms)
+				BeforeProcessingInitializeOnLoad (74ms)
+				ProcessInitializeOnLoadAttributes (158ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (12ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2194 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.8 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2627.
+Total: 2.450300 ms (FindLiveObjects: 0.129400 ms CreateObjectMapping: 0.059300 ms MarkObjects: 2.214700 ms  DeleteObjects: 0.046100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes
+  artifactKey: Guid(60e2ae6b316dc7d4485805dc2ab2d8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(60e2ae6b316dc7d4485805dc2ab2d8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8819e89d71d823d1bf634cb9f8679306') in 0.003716 seconds 
+  Import took 0.005997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 353.241915 seconds.
+  path: Assets/場景
+  artifactKey: Guid(b45392e98c9729345924713c344a6094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/場景 using Guid(b45392e98c9729345924713c344a6094) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6abea8afa53e68287b134f4bb506cb7') in 0.001640 seconds 
+  Import took 0.004409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.297318 seconds.
+  path: Assets/調色盤/森林調色盤.prefab
+  artifactKey: Guid(d80f43fad30fde645ad384f41236dfd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/調色盤/森林調色盤.prefab using Guid(d80f43fad30fde645ad384f41236dfd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '995be3f34ea4e601bcb4381558601697') in 0.071432 seconds 
+  Import took 0.074146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 409.729238 seconds.
+  path: Assets/圖片
+  artifactKey: Guid(b3b83a58837d2694ebd70048a466dff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片 using Guid(b3b83a58837d2694ebd70048a466dff9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83efd517e6bf0c18cc8d63b7e84373a1') in 0.001672 seconds 
+  Import took 0.004628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.914766 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack
+  artifactKey: Guid(41f2daa5f7878654a948090445d29d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack using Guid(41f2daa5f7878654a948090445d29d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c066f2478bfb2f1649933de16724f6b2') in 0.002103 seconds 
+  Import took 0.004847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.835926 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Characters
+  artifactKey: Guid(a5fe1b15d1166cd4ab3891fa991272b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Characters using Guid(a5fe1b15d1166cd4ab3891fa991272b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c953a544416c7024955d0904219e77a') in 0.001978 seconds 
+  Import took 0.005172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057150 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Characters/Basic Charakter Spritesheet.png
+  artifactKey: Guid(4b1e40ae3b9451542a70ab36a47addec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Characters/Basic Charakter Spritesheet.png using Guid(4b1e40ae3b9451542a70ab36a47addec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba12129806cd560c9b19b1b2893ddf72') in 0.063160 seconds 
+  Import took 0.065938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Characters/Free Cow Sprites.png
+  artifactKey: Guid(4b9f61056628c9f43bdc13b9e59d8383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Characters/Free Cow Sprites.png using Guid(4b9f61056628c9f43bdc13b9e59d8383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7b69ebe6e8aafc056dd2772cb0b6f7f') in 0.008211 seconds 
+  Import took 0.010684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.012823 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects
+  artifactKey: Guid(60983a162a4aa29439923808f214cb75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects using Guid(60983a162a4aa29439923808f214cb75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f35e500c7d6a168eeda05067ec0b6e05') in 0.002333 seconds 
+  Import took 0.005065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062557 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Furniture.png
+  artifactKey: Guid(aa97127f696e97941a53f8e020932d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Furniture.png using Guid(aa97127f696e97941a53f8e020932d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c117bf525ddf3446098a84ccb077c619') in 0.012041 seconds 
+  Import took 0.014825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Grass Biom things 1.png
+  artifactKey: Guid(841895921a173814cac15c141fa2e6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Grass Biom things 1.png using Guid(841895921a173814cac15c141fa2e6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6413ed289f7fe8ddc57e5e6828592670') in 0.015761 seconds 
+  Import took 0.018347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Plants.png
+  artifactKey: Guid(aafd6780dc31a7e4396f8a688f65b5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Plants.png using Guid(aafd6780dc31a7e4396f8a688f65b5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94ccc09d090eff136cb37c2e37f98af5') in 0.013573 seconds 
+  Import took 0.016039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Wood Bridge.png
+  artifactKey: Guid(a21be3ca39af3244f8712f9ffca42406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Wood Bridge.png using Guid(a21be3ca39af3244f8712f9ffca42406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98bfbd3a4f06373d2f4fdc8d454bbede') in 0.012464 seconds 
+  Import took 0.014902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Paths.png
+  artifactKey: Guid(6c473a205486e5144b8c346951f1cebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Paths.png using Guid(6c473a205486e5144b8c346951f1cebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2d7c5c700abc7408996b89496f9362e') in 0.011837 seconds 
+  Import took 0.014485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Chest.png
+  artifactKey: Guid(bd6e776d44929734fb624e0477dcd6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Chest.png using Guid(bd6e776d44929734fb624e0477dcd6f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc7ab34d11cf2e98829ee9d8269328fc') in 0.012971 seconds 
+  Import took 0.015710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Simple Milk and grass item.png
+  artifactKey: Guid(51d192f4313b3cf4298d8f74c5dd6a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Simple Milk and grass item.png using Guid(51d192f4313b3cf4298d8f74c5dd6a1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11d4ee4f27bb8f489d94dd655940e21f') in 0.012297 seconds 
+  Import took 0.015107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.308521 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Tilesets
+  artifactKey: Guid(fe40c0295f8d42f4c875bd89a0c6b3ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Tilesets using Guid(fe40c0295f8d42f4c875bd89a0c6b3ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33a76b47544847a09d9fe6e49b7b53c2') in 0.002062 seconds 
+  Import took 0.005243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.071079 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Tilesets/Fences.png
+  artifactKey: Guid(b47d722ca232c784eb2cd9d7d609fd57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Tilesets/Fences.png using Guid(b47d722ca232c784eb2cd9d7d609fd57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9acd900c14f6813e6dc23cf6de084f6a') in 0.008240 seconds 
+  Import took 0.010933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Tilesets/Hills.png
+  artifactKey: Guid(c8eede8f958b1784bb0c61d509a76a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Tilesets/Hills.png using Guid(c8eede8f958b1784bb0c61d509a76a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a404b62df7da548f01b486f1a70a44f5') in 0.016682 seconds 
+  Import took 0.019063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Tilesets/Grass.png
+  artifactKey: Guid(575b68d49c89a374488d3c859c68baec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Tilesets/Grass.png using Guid(575b68d49c89a374488d3c859c68baec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '441589d8e117a37d2b9e266a268a7f91') in 0.018224 seconds 
+  Import took 0.020656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Tilesets/Wooden House.png
+  artifactKey: Guid(c9bb85bfbeb144748ab7865ac26bbc0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Tilesets/Wooden House.png using Guid(c9bb85bfbeb144748ab7865ac26bbc0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaa5342911d7498a0e46093e37cb49fa') in 0.014256 seconds 
+  Import took 0.017248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Tilesets/Tilled Dirt.png
+  artifactKey: Guid(c151e95d282faae41b1f40ef3a10bb07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Tilesets/Tilled Dirt.png using Guid(c151e95d282faae41b1f40ef3a10bb07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9a65775380569068f695f3f60578cf8') in 0.010320 seconds 
+  Import took 0.012879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Tilesets/Water.png
+  artifactKey: Guid(960e87bc84c573a488d3d1c490f74e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Tilesets/Water.png using Guid(960e87bc84c573a488d3d1c490f74e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4a7feaf3b22c80fc9bb567a9cc2768f') in 0.011254 seconds 
+  Import took 0.013961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.813433 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Tilesets/Grass.png
+  artifactKey: Guid(575b68d49c89a374488d3c859c68baec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Tilesets/Grass.png using Guid(575b68d49c89a374488d3c859c68baec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29627db6b69a2d112c5eb8c56d5d333b') in 0.006715 seconds 
+  Import took 0.009506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.489197 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Tilesets/Grass.png
+  artifactKey: Guid(575b68d49c89a374488d3c859c68baec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Tilesets/Grass.png using Guid(575b68d49c89a374488d3c859c68baec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aee549831f39dfec86678fc757f932f') in 0.174255 seconds 
+  Import took 0.177131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1114.697045 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Tilesets/Grass.png
+  artifactKey: Guid(575b68d49c89a374488d3c859c68baec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Tilesets/Grass.png using Guid(575b68d49c89a374488d3c859c68baec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df43dc40551f82ae1c93becb50708018') in 0.178955 seconds 
+  Import took 0.181916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1274.805234 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Grass Biom things 1.png
+  artifactKey: Guid(841895921a173814cac15c141fa2e6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Grass Biom things 1.png using Guid(841895921a173814cac15c141fa2e6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21872f6f0cf4efcbcdf010e474a78f64') in 0.007260 seconds 
+  Import took 0.010213 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.055850 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Furniture.png
+  artifactKey: Guid(aa97127f696e97941a53f8e020932d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Furniture.png using Guid(aa97127f696e97941a53f8e020932d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '744c8a021256ded59fa36db95e35f6be') in 0.008933 seconds 
+  Import took 0.012112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 218.310936 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Furniture.png
+  artifactKey: Guid(aa97127f696e97941a53f8e020932d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Furniture.png using Guid(aa97127f696e97941a53f8e020932d60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea38f3f262a4ae81e0305be7d730b8ff') in 0.091644 seconds 
+  Import took 0.094460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.014002 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Grass Biom things 1.png
+  artifactKey: Guid(841895921a173814cac15c141fa2e6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Grass Biom things 1.png using Guid(841895921a173814cac15c141fa2e6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da8aa08d22579c115da054a15cb26be7') in 0.103192 seconds 
+  Import took 0.106143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 314.466301 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Grass Biom things 1.png
+  artifactKey: Guid(841895921a173814cac15c141fa2e6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Grass Biom things 1.png using Guid(841895921a173814cac15c141fa2e6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06bc955106fd909632a3729b71bcd2b9') in 0.104228 seconds 
+  Import took 0.107153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.011531 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Grass Biom things 1.png
+  artifactKey: Guid(841895921a173814cac15c141fa2e6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Grass Biom things 1.png using Guid(841895921a173814cac15c141fa2e6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14eb0e6f04eda5685258b3434ed1e413') in 0.089512 seconds 
+  Import took 0.092327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.548406 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Grass Biom things 1.png
+  artifactKey: Guid(841895921a173814cac15c141fa2e6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Grass Biom things 1.png using Guid(841895921a173814cac15c141fa2e6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1e7c0e9dd2dda8b26da97972cb3917e') in 0.102636 seconds 
+  Import took 0.105445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.692817 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Grass Biom things 1.png
+  artifactKey: Guid(841895921a173814cac15c141fa2e6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Grass Biom things 1.png using Guid(841895921a173814cac15c141fa2e6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46baddb1f492b191ff44ce9c3747ce53') in 0.093289 seconds 
+  Import took 0.096486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1553.072771 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Plants.png
+  artifactKey: Guid(aafd6780dc31a7e4396f8a688f65b5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Plants.png using Guid(aafd6780dc31a7e4396f8a688f65b5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07092af6490451ec4a0ea0d74a8f198e') in 0.010243 seconds 
+  Import took 0.012997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.887049 seconds.
+  path: Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Plants.png
+  artifactKey: Guid(aafd6780dc31a7e4396f8a688f65b5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/圖片/Sprout Lands - Sprites - Basic pack/Objects/Basic Plants.png using Guid(aafd6780dc31a7e4396f8a688f65b5ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2824f89203d9e228f6b5cd020f1ae864') in 0.039657 seconds 
+  Import took 0.042959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 812.221429 seconds.
+  path: Assets/方形圖片.png
+  artifactKey: Guid(fda4130d5ee318948ab04eaa66b55f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/方形圖片.png using Guid(fda4130d5ee318948ab04eaa66b55f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c82567876eae98e7eef71604bb7726e4') in 0.010428 seconds 
+  Import took 0.013834 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
